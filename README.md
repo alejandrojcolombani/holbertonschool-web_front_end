@@ -1,0 +1,1 @@
+This project focuses on learning the fundamentals of HTML5 by building the structure of a webpage using semantic HTML elements.
